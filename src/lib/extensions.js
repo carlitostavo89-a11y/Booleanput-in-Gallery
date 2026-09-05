@@ -688,7 +688,7 @@ export default [
     */
         {
         name: "Booleanput PACK",
-        description: "Un convertor de entradas normales a booleanos para TurboWarp/PenguinMod. Permite usar texto y números en entradas booleanas y viceversa con recolor dinámico.",
+        description: "A converter for normal inputs to booleans for TurboWarp/PenguinMod. Allows the use of text and numbers in boolean inputs and vice versa with dynamic recoloring.",
         code: "carlitostavo89-a11y/booleanput.js",
         banner: "carlitostavo89-a11y/booleanput.avif",
         creator: "carlitostavo89-a11y",
